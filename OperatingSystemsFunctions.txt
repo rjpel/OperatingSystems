@@ -1,1 +1,3 @@
 One function of an operating system is managing devices. An operating system communicates the information that is put into by input devices such as the keyboard and processes it accordingly. The operating system also communicates information to output devices, such as a computer screen. Operating systems make sure that all these devices are doing exactly what they need in order to process the input and output information.
+
+Operating systems also keep tracking of and manage device memory. When managing device memory, operating systems determine how much space, or bytes, any given user program is using. Operating systems allocate memory so that the device can process programs correctly.
